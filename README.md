@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://citatege.sirv.com/profile.png"  />
+<h1 align="left">I code with</h1>
 
 ###
 
@@ -42,6 +42,12 @@
 </div>
 
 ###
+
+<img align="right" height="150" src="https://citatege.sirv.com/profile.png"  />
+
+###
+
+<br clear="both">
 
 <img href="https://raw.githubusercontent.com/chlzslvdr/chlzslvdr/blob/output/snake.svg" alt="Snake animation" />
 
