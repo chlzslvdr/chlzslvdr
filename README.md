@@ -29,7 +29,3 @@
 </div>
 
 ###
-
-<img href="https://github.com/chlzslvdr/chlzslvdr/blob/output/snake.svg" alt="Snake animation" />
-
-###
